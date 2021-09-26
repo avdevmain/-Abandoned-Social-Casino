@@ -2,5 +2,5 @@
 
 Latest game version includes four slot machines with different mechanics, also there is an additional mechanic -  fortune wheel, working as a bonus level for one of the slots.
 
-<img src="https://github.com/avdevmain/av-Social-casino/blob/main/1n_CcjTNdYY.jpg"  title="hover text">
+<img src="https://github.com/avdevmain/av-Social-casino/blob/main/1n_CcjTNdYY.jpg"  title="just an old screenshot">
 
